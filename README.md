@@ -1,1 +1,2 @@
 # Sun-Tracking-solar-panel-using-IoT
+A sun tracking solar panel is a solar energy system designed to follow the movement of the sun across the sky throughout the day to maximize the amount of sunlight absorbed by the solar panels. Unlike fixed solar panels, which are stationary and positioned at a set angle, sun-tracking systems adjust the orientation of the panels in real-time to ensure that they are always facing directly towards the sun.
